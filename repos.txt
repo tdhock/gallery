@@ -1,0 +1,3 @@
+tdhock/necromass-figure-one-network
+tdhock/tdhock-figure-nnet-regression-degrees
+tdhock/animint-figure-nnet-regression-degrees
