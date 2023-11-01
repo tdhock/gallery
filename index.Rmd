@@ -17,19 +17,19 @@ ahref <- function(href, text){
 myread <- function(csv, repo.col){
   nc::capture_first_df(
     fread(csv),
-    repo=list(user=".*?", "/", repo_only=".*")
+    viz_user_repo=list(user=".*?", "/", repo_only=".*")
   )[
-  , img.png := sprintf("repos/%s.png", repo)
+  , img.png := sprintf("repos/%s.png", viz_user_repo)
   ][
   , viz.link := ahref(
     sprintf("https://%s.github.io/%s/", user, repo_only),
     ifelse(
       file.exists(img.png),
-      sprintf('<img src="%s" alt="%s" />', img.png, repo),
-      repo)
+      sprintf('<img src="%s" alt="%s" />', img.png, viz_user_repo),
+      viz_user_repo)
   )][
   , repo.link := ahref(
-    sprintf("https://github.com/%s/tree/gh-pages", repo),
+    sprintf("https://github.com/%s/tree/gh-pages", viz_user_repo),
     get(repo.col))
   ]
 }
@@ -38,7 +38,7 @@ meta.dt <- myread("meta.csv", "title")[
     source,
     commit.POSIXct)
 ]
-error.dt <- myread("error.csv", "repo")
+error.dt <- myread("error.csv", "viz_user_repo")
 ```
 
 ```{r}
@@ -60,3 +60,7 @@ knitr::kable(error.dt[, .(
 download("error.csv")
 ```
 
+## Source code
+
+* [This gallery repository](https://github.com/animint/gallery/tree/gh-pages),
+* [`animint2::update_gallery()`](https://github.com/animint/animint2/blob/master/R/z_pages.R).
