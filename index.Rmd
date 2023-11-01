@@ -1,0 +1,62 @@
+---
+title: animint2 gallery
+output: html_document
+---
+
+```{r Ropts, echo=FALSE}
+options(width=200)
+knitr::opts_chunk$set(
+  echo=FALSE,
+  results="asis")
+ahref <- function(href, text){
+  sprintf('<a href="%s">%s</a>', href, text)
+}
+```
+
+```{r}
+myread <- function(csv, repo.col){
+  nc::capture_first_df(
+    fread(csv),
+    repo=list(user=".*?", "/", repo_only=".*")
+  )[
+  , img.png := sprintf("repos/%s.png", repo)
+  ][
+  , viz.link := ahref(
+    sprintf("https://%s.github.io/%s/", user, repo_only),
+    ifelse(
+      file.exists(img.png),
+      sprintf('<img src="%s" alt="%s" />', img.png, repo),
+      repo)
+  )][
+  , repo.link := ahref(
+    sprintf("https://github.com/%s/tree/gh-pages", repo),
+    get(repo.col))
+  ]
+}
+meta.dt <- myread("meta.csv", "title")[
+  , source.link := ahref(
+    source,
+    commit.POSIXct)
+]
+error.dt <- myread("error.csv", "repo")
+```
+
+```{r}
+knitr::kable(meta.dt[, .(
+  viz.link, repo.link, source.link
+)])
+download <- function(csv){
+  cat(ahref(csv, paste("Download this table: ", csv)))
+}
+download("meta.csv")
+```
+
+## Visualizations with missing meta-data
+
+```{r}
+knitr::kable(error.dt[, .(
+  viz.link, repo.link, error
+)])
+download("error.csv")
+```
+
