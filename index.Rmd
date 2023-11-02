@@ -17,19 +17,19 @@ ahref <- function(href, text){
 myread <- function(csv, repo.col){
   nc::capture_first_df(
     fread(csv),
-    viz_user_repo=list(user=".*?", "/", repo_only=".*")
+    viz_owner_repo=list(owner=".*?", "/", repo_only=".*")
   )[
-  , img.png := sprintf("repos/%s.png", viz_user_repo)
+  , img.png := sprintf("repos/%s.png", viz_owner_repo)
   ][
   , viz.link := ahref(
-    sprintf("https://%s.github.io/%s/", user, repo_only),
+    sprintf("https://%s.github.io/%s/", owner, repo_only),
     ifelse(
       file.exists(img.png),
-      sprintf('<img src="%s" alt="%s" />', img.png, viz_user_repo),
-      viz_user_repo)
+      sprintf('<img src="%s" alt="%s" />', img.png, viz_owner_repo),
+      viz_owner_repo)
   )][
   , repo.link := ahref(
-    sprintf("https://github.com/%s/tree/gh-pages", viz_user_repo),
+    sprintf("https://github.com/%s/tree/gh-pages", viz_owner_repo),
     get(repo.col))
   ]
 }
@@ -38,7 +38,7 @@ meta.dt <- myread("meta.csv", "title")[
     source,
     commit.POSIXct)
 ]
-error.dt <- myread("error.csv", "viz_user_repo")
+error.dt <- myread("error.csv", "viz_owner_repo")
 ```
 
 ```{r}
