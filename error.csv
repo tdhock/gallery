@@ -1,3 +1,4 @@
 add.POSIXct,viz_owner_repo,error
-2023-11-02T18:08:24.904487Z,tdhock/tdhock-figure-nnet-regression-degrees,gh-pages branch of tdhock/tdhock-figure-nnet-regression-degrees should contain file named Capture.PNG (screenshot of data viz)
-2023-11-02T18:08:24.904487Z,tdhock/animint-figure-nnet-regression-degrees,plot.json file in gh-pages branch of tdhock/animint-figure-nnet-regression-degrees should have element named title which should be string describing the data viz
+2023-11-05T06:22:55.516843Z,tdhock/2023-08-interval-regression-BIC-vs-learned,gh-pages branch of tdhock/2023-08-interval-regression-BIC-vs-learned should contain file named Capture.PNG (screenshot of data viz)
+2023-11-05T06:22:55.516843Z,tdhock/tdhock-figure-nnet-regression-degrees,gh-pages branch of tdhock/tdhock-figure-nnet-regression-degrees should contain file named Capture.PNG (screenshot of data viz)
+2023-11-05T06:22:55.516843Z,tdhock/animint-figure-nnet-regression-degrees,plot.json file in gh-pages branch of tdhock/animint-figure-nnet-regression-degrees should have element named title which should be string describing the data viz
