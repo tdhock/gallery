@@ -4,3 +4,4 @@ add.POSIXct,viz_owner_repo,commit.POSIXct,source,title
 2023-11-07T22:56:19.242054Z,tdhock/2023-11-interval-regression-differences,2023-11-07T22:56:01Z,https://github.com/tdhock/change-tutorial/blob/master/figure-differences-interactive.R,AIC/BIC change-point detection comparison using ROC curves
 2023-11-15T23:13:36.851599Z,EngineerDanny/EngineerDanny-necromass-figure-one-network,2023-11-08T15:46:32Z,https://github.com/tdhock/necromass/blob/main/figure-one-network.Rmd,bacteria_fungi_conservative visualization
 2023-11-15T23:18:03.715755Z,tdhock/2019-01-nearest-neighbors-cross-validation,2023-11-15T23:17:57Z,https://github.com/tdhock/cs499-spring2019/blob/master/2019-01-17-nearest-neighbors/viz-4folds.R,4 fold cross-validation
+2023-11-15T23:32:21.057555Z,tdhock/2019-01-nearest-neighbors-classification-1d,2023-11-15T23:32:03Z,https://github.com/tdhock/cs499-spring2019/blob/master/2019-01-17-nearest-neighbors/viz-class-1d.R,Nearest neighbors algorithm for classification
