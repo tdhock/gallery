@@ -42,7 +42,7 @@ error.dt <- myread("error.csv", "viz_owner_repo")
 ```
 
 ```{r}
-knitr::kable(meta.dt[, .(
+knitr::kable(meta.dt[order(-commit.POSIXct), .(
   viz.link, repo.link, source.link
 )])
 download <- function(csv){
