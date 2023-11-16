@@ -1,3 +1,6 @@
+tdhock/2019-02-14-L2-regularization
+tdhock/2019-02-05-linear-regression-1d-grad-desc-ozone-steps
+tdhock/2019-02-05-linear-regression-1d-grad-desc-ozone
 tdhock/2020-02-03-capacity-polynomial-degree
 tdhock/2019-01-nearest-neighbor-regression-one-split
 tdhock/2023-01-regression-2d
