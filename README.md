@@ -5,7 +5,7 @@ Instructions for contribution:
 * First run `install.packages("animint2")` to get the most recent
   version from CRAN (>= 2023.11.21) with support for the `source`
   option, which is required for publishing an animint to a gallery.
-* Create a data `viz` object with options:
+* Create a data `viz = animint(ggplots, title="data viz title", source="https://link.to/your_code.R")` object with options:
   * `title` string describing the data viz, 
   * `source` URL of data viz source code.
 * In R, run `animint2pages(viz,"new_github_repo")` to create a new
