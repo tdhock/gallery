@@ -1,3 +1,4 @@
+tdhock/2023-12-04-degree-neighbors
 tdhock/2023-12-04-capacity-polynomial-degree-several-patterns
 tdhock/2023-11-21-auc-improved
 tdhock/2020-02-13-variable-importance-Sugar-Maple
