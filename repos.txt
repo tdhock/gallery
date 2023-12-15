@@ -1,3 +1,4 @@
+tdhock/2023-12-13-train-predict-subsets-classification
 tdhock/2023-12-13-train-predict-subsets-regression
 tdhock/2023-12-04-degree-neighbors
 tdhock/2023-12-04-capacity-polynomial-degree-several-patterns
