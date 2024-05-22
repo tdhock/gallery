@@ -24,3 +24,4 @@ add.POSIXct,viz_owner_repo,commit.POSIXct,source,title
 2023-12-28T05:38:10.709887Z,tdhock/2023-12-27-train-sizes-classification,2023-12-28T05:37:38Z,https://github.com/tdhock/mlr3resampling/blob/main/vignettes/ResamplingVariableSizeTrainCV.Rmd,"Variable size train sets, classification"
 2024-04-09T16:39:27.672970Z,tdhock/Animated2GradCAM-COVID19-Chest-X-ray-ViT-V2-200px-696Case,2024-04-09T16:38:46Z,https://github.com/TyBruceChen/Research-A-Fined-Tuned-ViT-for-COVID-19-Image-Auxiliary-Diagnosing,Classifying Covid19 chest X-ray images
 2024-04-09T22:40:29.930902Z,tdhock/Animated2GradCAM-COVID19-Chest-X-ray-ViT-V3-140px-609Case,2024-04-09T22:39:37Z,https://github.com/TyBruceChen/Animinted2GradCAM?tab=readme-ov-file,"Classifying chest X-rays, plot confidence"
+2024-05-22T23:26:19.636261Z,tdhock/2024-05-22-changepoint-model-selection,2024-05-22T23:25:22Z,https://github.com/tdhock/changepoint-data-structure/blob/master/figure-loss-small-data.R,Changepoint model selection
