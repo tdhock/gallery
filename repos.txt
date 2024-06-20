@@ -32,3 +32,4 @@ nhintruong/figure-aum-convexity-interactive
 nhintruong/figure-curveAlignment
 nhintruong/figure-2019-08-14-animint
 nhintruong/figure-neuroblastomaProcessed-complex
+nhintruong/figure-candidates-interactive
