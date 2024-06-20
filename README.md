@@ -20,8 +20,8 @@
 2. If you have not yet cloned your fork, then `git clone git@github.com:YOUR_GITHUB_USERNAME/gallery ~/R/gallery`
 3. Add `YOUR_GITHUB_USERNAME/new_github_repo` on a new line in `repos.txt`
 4. Run `animint2::update_gallery()` to update and push the changes to the `gh-pages` branch of your fork.
-5. After a few minutes, your updated gallery will appear on https://YOUR_GITHUB_USERNAME.github.io/gallery/ 
-6. Open a PR from your fork's `gh-pages` branch (head/compare), into the animint/gallery `gh-pages` branch (base), by clicking "Contribute" button on your fork's github web page, or via a URL like  https://github.com/animint/gallery/compare/gh-pages...YOUR_GITHUB_USERNAME:gallery:gh-pages?expand=1
-7. Make sure the PR description has a link such as https://YOUR_GITHUB_USERNAME.github.io/gallery/ to the rendered version of your fork of the gallery, so reviewers can quickly preview what the new gallery would look like after merging the PR.
+5. After a few minutes, your updated gallery will appear on https://YOUR_GITHUB_USERNAME.github.io/gallery/
+6. Open a pull request from your fork's `gh-pages` branch (head/compare), into the animint/gallery `gh-pages` branch (base), by clicking "Contribute" button on your fork's github web page, or via a URL like  https://github.com/animint/gallery/compare/gh-pages...YOUR_GITHUB_USERNAME:gallery:gh-pages?expand=1
+7. Make sure the pull request description has a link such as https://YOUR_GITHUB_USERNAME.github.io/gallery/ to the rendered version of your fork of the gallery, so reviewers can quickly preview what the new gallery would look like after merging the pull request.
 
 For more info about galleries, read [The animint2 Manual, Chapter 5, Sharing animints, section Organizing animints in a gallery](https://rcdata.nau.edu/genomic-ml/animint2-manual/Ch05-sharing.html#gallery).
