@@ -27,7 +27,7 @@ Instructions for contribution:
 * Run `animint2::update_gallery()` to update and push the
   changes to the `gh-pages` branch of your fork.
 * After a few minutes, your updated gallery will appear on https://YOUR_GITHUB_USERNAME.github.io/gallery/ 
-* Open a PR from your fork's `gh-pages` branch, to the animint/gallery `gh-pages` branch, by clicking "Contribute" button on your fork's github web page, or via a URL like  https://github.com/animint/gallery/compare/gh-pages...YOUR_GITHUB_USERNAME:gallery:gh-pages?expand=1
+* Open a PR from your fork's `gh-pages` branch (head/compare), into the animint/gallery `gh-pages` branch (base), by clicking "Contribute" button on your fork's github web page, or via a URL like  https://github.com/animint/gallery/compare/gh-pages...YOUR_GITHUB_USERNAME:gallery:gh-pages?expand=1
 * Make sure the PR description has a link such as
   https://YOUR_GITHUB_USERNAME.github.io/gallery/ to the rendered
   version of your fork of the gallery, so reviewers can quickly
