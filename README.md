@@ -1,4 +1,4 @@
-animint2 gallery
+# animint2 Gallery
 
 Instructions for contribution:
 
