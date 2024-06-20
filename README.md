@@ -1,5 +1,7 @@
 # animint2 Gallery
 
+[animint2](https://cran.r-project.org/web/packages/animint2/) is an R package for animated and interactive data visualizations. This repository is for the animint2 gallery, which showcases examples of what `animint2` can do. Additions to the gallery are encouraged.
+
 Instructions for contribution:
 
 ## Make a data viz
