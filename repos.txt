@@ -30,3 +30,4 @@ nhintruong/figure-differences-interactive
 nhintruong/figure-gradient-descent-regression
 nhintruong/figure-aum-convexity-interactive
 nhintruong/figure-curveAlignment
+nhintruong/figure-2019-08-14-animint
