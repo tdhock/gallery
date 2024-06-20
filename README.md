@@ -2,9 +2,10 @@
 
 [animint2](https://cran.r-project.org/web/packages/animint2/) is an R package for animated and interactive data visualizations. This repository is for the animint2 gallery, which showcases examples of what `animint2` can do. Additions to the gallery are encouraged.
 
-Instructions for contribution:
 
-## Make a data viz
+## How to Contribute
+
+### Make a Data Viz
 
 * First run `install.packages("animint2")` to get the most recent
   version from CRAN (>= 2023.11.21) with support for the `source`
@@ -20,7 +21,7 @@ Instructions for contribution:
 * Add a `Capture.PNG` file (screenshot of data viz) to the gh-pages
   branch of that repo.
 
-## Add your data viz to the gallery
+### Add your Data Viz to the Gallery
   
 * If you have not yet forked the gallery, then [fork the gallery](https://github.com/animint/gallery/fork) and make sure your fork includes the `gh-pages` branch.
 * If you have not yet cloned your fork, then `git clone git@github.com:YOUR_GITHUB_USERNAME/gallery ~/R/gallery`
