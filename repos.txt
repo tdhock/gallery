@@ -26,7 +26,6 @@ tdhock/animint-figure-nnet-regression-degrees
 tdhock/necromass-figure-one-network
 EngineerDanny/EngineerDanny-necromass-figure-one-network
 nhintruong/Ch18-neural-networks-sim
-nhintruong/figure-differences-interactive
 nhintruong/figure-gradient-descent-regression
 nhintruong/figure-aum-convexity-interactive
 nhintruong/figure-curveAlignment
