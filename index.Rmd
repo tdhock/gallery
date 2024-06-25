@@ -3,6 +3,9 @@ title: animint2 gallery
 output: html_document
 ---
 
+This is a gallery of data visualizations which have been creating
+using the R package [animint2](https://github.com/animint/animint2).
+
 ```{r Ropts, echo=FALSE}
 options(width=200)
 knitr::opts_chunk$set(
