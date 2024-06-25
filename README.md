@@ -20,7 +20,7 @@ In the following instructions, replace `YOUR_GITHUB_USERNAME` with your GitHub u
 
 1. If you have not yet forked the gallery, then [fork the gallery](https://github.com/animint/gallery/fork). Make sure your fork includes the `gh-pages` branch. This makes a copy of the animint2 gallery and places it on your list of repositories.
 2. If you have not yet cloned your fork, then clone it with `git clone git@github.com:YOUR_GITHUB_USERNAME/gallery ~/R/gallery`. This copies your fork from GitHub onto your local machine.
-3. Add `YOUR_GITHUB_USERNAME/new_github_repo` on a new line in `repos.txt`. The `new_github_repo` is likely named (and should be replaced with) `gallery`, but you may have named it something else.
+3. Add `YOUR_GITHUB_USERNAME/new_github_repo` on a new line in `repos.txt`. The `new_github_repo` should be the same name that you used when you published a data viz `animint2pages`.
 4. Run `animint2::update_gallery()` to update and push the changes to the `gh-pages` branch of your fork.
 5. After a few minutes, your updated gallery will appear on https://YOUR_GITHUB_USERNAME.github.io/gallery/.
 6. Open a pull request from your fork's `gh-pages` branch (head/compare) into the animint/gallery `gh-pages` branch (base) by clicking the "Contribute" button on your fork's GitHub web page or via a URL like https://github.com/animint/gallery/compare/gh-pages...YOUR_GITHUB_USERNAME:gallery:gh-pages?expand=1.
