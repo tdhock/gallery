@@ -1,14 +1,8 @@
 tdhock/2024-07-10-error-predict-qsip
 tdhock/2024-07-04-HMM-angular-data
 tdhock/2024-06-26-neuroblastomaProcessed-combinations
-nhintruong/Ch18-neural-networks-sim
-nhintruong/figure-gradient-descent-regression
 nhintruong/figure-aum-convexity-interactive
-nhintruong/figure-curveAlignment
 nhintruong/figure-2019-08-14-animint
-nhintruong/figure-neuroblastomaProcessed-complex
-nhintruong/figure-candidates-interactive
-tdhock/2024-05-22-changepoint-model-selection
 tdhock/Animated2GradCAM-COVID19-Chest-X-ray-ViT-V3-140px-609Case
 tdhock/Animated2GradCAM-COVID19-Chest-X-ray-ViT-V2-200px-696Case
 tdhock/2023-12-27-train-sizes-classification
