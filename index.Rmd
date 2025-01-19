@@ -1,6 +1,8 @@
 ---
 title: animint2 gallery
-output: html_document
+output:
+  html_document:
+    self_contained: false
 ---
 
 This is a gallery of data visualizations which have been creating

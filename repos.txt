@@ -1,3 +1,4 @@
+tdhock/2025-01-WorldBank-facets-map
 tdhock/2024-11-27-decision-tree-spam
 tdhock/2024-11-23-greedy-decision-tree
 tdhock/2024-09-16-K-fold-CV-train-sizes-regression
