@@ -35,3 +35,4 @@ add.POSIXct,viz_owner_repo,commit.POSIXct,source,title
 2024-11-28T13:40:24.282565Z,tdhock/2024-11-27-decision-tree-spam,2024-11-28T13:36:27Z,https://github.com/tdhock/2023-08-unsupervised-learning/blob/main/slides/20-decision-tree-spam.R,Cross-validation for Breiman's CART algorithm on SPAM data
 2024-11-28T13:40:24.282565Z,tdhock/2024-11-23-greedy-decision-tree,2024-11-28T13:39:01Z,https://github.com/tdhock/2023-08-unsupervised-learning/blob/main/slides/20-decision-trees.R,Greedy decision tree learning algorithm for binary classification (Breiman's CART)
 2025-01-10T05:32:11.390181Z,tdhock/2025-01-WorldBank-facets-map,2025-01-10T05:27:06Z,https://github.com/animint/animint2/blob/master/inst/examples/WorldBank-facets-map.R,"World Bank data (multiple selection, facets)"
+2025-01-19T21:08:16.681343Z,tdhock/2025-01-19-bike-rides-around-paris-2009,2025-01-19T21:07:46Z,https://github.com/animint/animint2/blob/master/inst/examples/gps.R,Toby Hocking Bike Rides 2009
