@@ -38,11 +38,10 @@ myread <- function(csv, repo.col){
     get(repo.col))
   ]
 }
-meta.dt <- myread("meta.csv", "title")[
-  , source.link := ahref(
-    source,
-    commit.POSIXct)
-]
+meta.dt <- myread("meta.csv", "title")[, let(
+  source.link = ahref(source, commit.POSIXct),
+  video.link = ifelse(is.na(video), "", ahref(video,  "video"))
+)]
 error.dt <- myread("error.csv", "viz_owner_repo")
 ```
 
