@@ -43,12 +43,14 @@ meta.dt <- myread("meta.csv")[, let(
   video.link = ifelse(video=="", "", ahref(video,  "video"))
 )][
 , links := paste(repo.link, source.link, video.link)
-][]
+][
+  order(-add.POSIXct)
+]
 error.dt <- myread("error.csv", "viz_owner_repo")
 ```
 
 ```{r}
-knitr::kable(meta.dt[order(-add.POSIXct), .(
+knitr::kable(meta.dt[, .(
   viz.link, title, links
 )])
 download <- function(csv){
