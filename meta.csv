@@ -1,5 +1,4 @@
 add.POSIXct,viz_owner_repo,video,source,title
-2025-01-21T10:53:52.485204Z,tdhock/2024-06-26-neuroblastomaProcessed-combinations,"",https://github.com/tdhock/max-generalized-auc/blob/master/figure-neuroblastomaProcessed-combinations-interactive.R,Generalized ROC curve metrics
 2025-01-21T10:53:52.485204Z,nhintruong/figure-aum-convexity-interactive,"",https://github.com/tdhock/max-generalized-auc/blob/42cc5c79fa442e22313ae5f903c846f13483eb41/figure-aum-convexity-interactive.R,Simple non-monotonic ROC curve
 2025-01-21T10:53:52.485204Z,nhintruong/figure-2019-08-14-animint,"",https://github.com/tdhock/neuroblastoma-data/blob/ff51e847a4d7b2fe61c1ad7e5f17c4d039aa2c9d/figure-2019-08-14-animint.R,Gaussian Process models for sample selection
 2025-01-21T10:53:52.485204Z,tdhock/Animated2GradCAM-COVID19-Chest-X-ray-ViT-V3-140px-609Case,"",https://github.com/TyBruceChen/Animinted2GradCAM?tab=readme-ov-file,"Classifying chest X-rays, plot confidence"
@@ -35,3 +34,4 @@ add.POSIXct,viz_owner_repo,video,source,title
 2025-01-29T14:40:05.624552Z,tdhock/2024-08-bic-learned-details,https://vimeo.com/1051547245,https://github.com/tdhock/change-tutorial/blob/master/figure-regression-interactive-some.R,BIC versus learned penalty in neuroblastoma data
 2025-02-01T10:23:34.982420Z,tdhock/2025-02-01-error-predict-qsip,https://vimeo.com/1052541453,https://github.com/tdhock/necromass/blob/main/data-qsip-jeff/figure-scatter/figure-scatter-interactive.R,Accuracy of predicting qSIP data
 2025-02-01T17:03:21.246194Z,tdhock/2024-07-04-HMM-angular-data,https://vimeo.com/1052600378,https://github.com/tdhock/angular-change-paper/blob/main/figure-2d-hmm-real-interactive.R,Hidden Markov Model for 2d angular data
+2025-02-02T20:43:23.348732Z,tdhock/2024-06-26-neuroblastomaProcessed-combinations,https://vimeo.com/1052818937,https://github.com/tdhock/max-generalized-auc/blob/master/figure-neuroblastomaProcessed-combinations-interactive.R,Generalized ROC curve metrics
