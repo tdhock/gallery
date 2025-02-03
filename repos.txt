@@ -7,7 +7,7 @@ tdhock/2024-08-bic-learned-details
 tdhock/2025-02-01-error-predict-qsip
 tdhock/2024-07-04-HMM-angular-data
 tdhock/2024-06-26-neuroblastomaProcessed-combinations
-nhintruong/figure-aum-convexity-interactive
+tdhock/2025-02-03-aum-convexity
 nhintruong/figure-2019-08-14-animint
 tdhock/Animated2GradCAM-COVID19-Chest-X-ray-ViT-V3-140px-609Case
 tdhock/Animated2GradCAM-COVID19-Chest-X-ray-ViT-V2-200px-696Case
