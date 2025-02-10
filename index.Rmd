@@ -21,7 +21,7 @@ ahref <- function(href, text){
 ```{r}
 myread <- function(csv, repo.col){
   nc::capture_first_df(
-    fread(csv),
+    data.table::fread(csv),
     viz_owner_repo=list(owner=".*?", "/", repo_only=".*")
   )[
   , img.png := sprintf("repos/%s.png", viz_owner_repo)
@@ -43,7 +43,9 @@ meta.dt <- myread("meta.csv")[, let(
   video.link = ifelse(video=="", "", ahref(video,  "video"))
 )][
 , links := paste(repo.link, source.link, video.link)
-][]
+][
+  order(-add.POSIXct)
+]
 error.dt <- myread("error.csv", "viz_owner_repo")
 ```
 
