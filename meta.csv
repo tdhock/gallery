@@ -35,3 +35,4 @@ add.POSIXct,viz_owner_repo,video,source,title
 2025-02-04T18:23:39.127865Z,tdhock/2023-12-27-train-sizes-classification,https://vimeo.com/1053477025,https://github.com/tdhock/mlr3resampling/blob/main/vignettes/Older_resamplers.Rmd,"Variable size train sets, classification"
 2025-02-04T18:23:39.127865Z,tdhock/2023-12-26-train-sizes-regression,https://vimeo.com/manage/videos/1053467310,https://github.com/tdhock/mlr3resampling/blob/main/vignettes/Older_resamplers.Rmd,"Variable size train set, regression"
 2025-02-04T18:23:39.127865Z,tdhock/2023-12-13-train-predict-subsets-classification,https://vimeo.com/manage/videos/1053464329,https://github.com/tdhock/mlr3resampling/blob/main/vignettes/Older_resamplers.Rmd,"SOAK algorithm: train/predict on subsets, classification"
+2025-04-02T07:12:39.659806Z,suhaani-agarwal/tornado-visualization,"",https://github.com/tdhock/animint-paper/blob/3145684d8a164d8d576fc00a078a72083b4d5389/examples/tornado/viz.R,US Tornado Visualization
