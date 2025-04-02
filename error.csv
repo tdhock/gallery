@@ -1,3 +1,3 @@
 add.POSIXct,viz_owner_repo,error
-2025-04-02T09:36:45.241778Z,tdhock/tdhock-figure-nnet-regression-degrees,cannot open URL 'https://raw.githubusercontent.com/tdhock/tdhock-figure-nnet-regression-degrees/refs/heads/gh-pages/Capture.PNG'
-2025-04-02T09:36:45.241778Z,tdhock/animint-figure-nnet-regression-degrees,plot.json file in gh-pages branch of tdhock/animint-figure-nnet-regression-degrees should have element named title which should be string describing the data viz
+2025-04-02T09:45:02.621897Z,tdhock/tdhock-figure-nnet-regression-degrees,cannot open URL 'https://raw.githubusercontent.com/tdhock/tdhock-figure-nnet-regression-degrees/refs/heads/gh-pages/Capture.PNG'
+2025-04-02T09:45:02.621897Z,tdhock/animint-figure-nnet-regression-degrees,plot.json file in gh-pages branch of tdhock/animint-figure-nnet-regression-degrees should have element named title which should be string describing the data viz
