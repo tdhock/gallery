@@ -37,4 +37,5 @@ add.POSIXct,viz_owner_repo,video,source,title
 2025-02-04T18:23:39.127865Z,tdhock/2023-12-13-train-predict-subsets-classification,https://vimeo.com/manage/videos/1053464329,https://github.com/tdhock/mlr3resampling/blob/main/vignettes/Older_resamplers.Rmd,"SOAK algorithm: train/predict on subsets, classification"
 2025-04-02T07:12:39.659806Z,suhaani-agarwal/tornado-visualization,https://vimeo.com/1072120042/29ea7f22a6,https://github.com/suhaani-agarwal/animint-paper/blob/master/examples/tornado/viz.R,US Tornado Visualization
 2025-04-10T10:28:55.939713Z,suhaani-agarwal/central-american-temperature-maps,"",http://github.com/suhaani-agarwal/animint-paper/blob/master/examples/climate/viz.R,Central American Temperature Maps
-2025-05-10T08:27:17.383153Z,suhaani-agarwal/WorldBank-paper,,https://github.com/suhaani-agarwal/animint/blob/master/inst/examples/WorldBank-paper.R,World Bank data viz for Animint paper
+2025-05-10T08:27:17.383153Z,suhaani-agarwal/WorldBank-paper,"",https://github.com/suhaani-agarwal/animint/blob/master/inst/examples/WorldBank-paper.R,World Bank data viz for Animint paper
+2025-05-10T09:38:53.120849Z,suhaani-agarwal/chip-seq-unaligned,,https://github.com/suhaani-agarwal/animint-examples/blob/master/examples/chip.seq_unaligned.R,ChIP-seq Unaligned
