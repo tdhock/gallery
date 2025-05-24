@@ -37,3 +37,6 @@ tdhock/necromass-figure-one-network
 EngineerDanny/EngineerDanny-necromass-figure-one-network
 nhintruong/breakpoints
 suhaani-agarwal/tornado-visualization
+suhaani-agarwal/central-american-temperature-maps
+suhaani-agarwal/WorldBank-paper
+suhaani-agarwal/chip-seq-unaligned
