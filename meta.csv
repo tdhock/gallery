@@ -39,4 +39,5 @@ add.POSIXct,viz_owner_repo,video,source,title
 2025-04-10T10:28:55.939713Z,suhaani-agarwal/central-american-temperature-maps,https://vimeo.com/1087209965,http://github.com/suhaani-agarwal/animint-paper/blob/master/examples/climate/viz.R,Central American Temperature Maps
 2025-05-10T08:27:17.383153Z,suhaani-agarwal/WorldBank-paper,https://vimeo.com/1087206179,https://github.com/suhaani-agarwal/animint/blob/master/inst/examples/WorldBank-paper.R,World Bank data viz for Animint paper
 2025-05-10T09:38:53.120849Z,suhaani-agarwal/chip-seq-unaligned,https://vimeo.com/1087397034,https://github.com/suhaani-agarwal/animint-examples/blob/master/examples/chip.seq_unaligned.R,ChIP-seq Unaligned
-2025-05-24T17:25:30.026734Z,suhaani-agarwal/montreal-bikes-Jan2016,,https://github.com/suhaani-agarwal/montreal-velos/blob/master/figure-timeseries.R,"Montreal cyclists and accidents, 2009-2014"
+2025-05-24T17:25:30.026734Z,suhaani-agarwal/montreal-bikes-Jan2016,"",https://github.com/suhaani-agarwal/montreal-velos/blob/master/figure-timeseries.R,"Montreal cyclists and accidents, 2009-2014"
+2025-05-25T12:25:24.972280Z,suhaani-agarwal/Demo_Constrained_PDPA,,https://github.com/suhaani-agarwal/PeakSegFPOP-paper/blob/master/figure-constrained-PDPA-normal-real.R,Demo of Constrained Pruned Dynamic Programming Algorithm
