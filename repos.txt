@@ -40,3 +40,9 @@ suhaani-agarwal/tornado-visualization
 suhaani-agarwal/central-american-temperature-maps
 suhaani-agarwal/WorldBank-paper
 suhaani-agarwal/chip-seq-unaligned
+suhaani-agarwal/montreal-bikes-Jan2016
+suhaani-agarwal/Demo_Constrained_PDPA
+suhaani-agarwal/figure-penaltyLearning
+suhaani-agarwal/intreg-BIC
+suhaani-agarwal/Ch18-neural-networks-sim
+suhaani-agarwal/figure-gradient-descent-regression
