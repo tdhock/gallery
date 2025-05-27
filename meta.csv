@@ -43,4 +43,5 @@ add.POSIXct,viz_owner_repo,video,source,title
 2025-05-25T12:25:24.972280Z,suhaani-agarwal/Demo_Constrained_PDPA,"",https://github.com/suhaani-agarwal/PeakSegFPOP-paper/blob/master/figure-constrained-PDPA-normal-real.R,Demo of Constrained Pruned Dynamic Programming Algorithm
 2025-05-27T07:17:19.377055Z,suhaani-agarwal/figure-penaltyLearning,"",https://github.com/suhaani-agarwal/mmit-paper/blob/master/figure-penaltyLearning.R,"Cost/slack minimization over all feature thresholds, for building max margin interval tree models"
 2025-05-27T08:01:05.116130Z,suhaani-agarwal/intreg-BIC,"",https://github.com/suhaani-agarwal/animint/blob/master/inst/examples/intreg_BIC.R,Segmentation model selection with BIC
-2025-05-27T11:22:32.142369Z,suhaani-agarwal/Ch18-neural-networks-sim,,https://github.com/suhaani-agarwal/animint-book/blob/master/Ch18-neural-networks-sim.R,Gradient descent for neural network and linear model
+2025-05-27T11:22:32.142369Z,suhaani-agarwal/Ch18-neural-networks-sim,"",https://github.com/suhaani-agarwal/animint-book/blob/master/Ch18-neural-networks-sim.R,Gradient descent for neural network and linear model
+2025-05-27T11:50:29.187449Z,suhaani-agarwal/figure-gradient-descent-regression,,https://github.com/suhaani-agarwal/cs570-spring-2022/blob/master/figure-gradient-descent-regression.R,Gradient descent for regression
