@@ -47,3 +47,6 @@ suhaani-agarwal/intreg-BIC
 suhaani-agarwal/Ch18-neural-networks-sim
 suhaani-agarwal/figure-gradient-descent-regression
 suhaani-agarwal/ROC-curve-alignment
+biplab-sutradhar/climate-change-sensor-stations
+biplab-sutradhar/figure-candidates-interactive
+biplab-sutradhar/Data-viz-with-506-selectors
