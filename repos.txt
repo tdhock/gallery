@@ -49,5 +49,5 @@ suhaani-agarwal/figure-gradient-descent-regression
 suhaani-agarwal/ROC-curve-alignment
 biplab-sutradhar/climate-change-sensor-stations
 biplab-sutradhar/figure-candidates-interactive
-biplab-sutradhar/Data-viz-with-506-selectors
+biplab-sutradhar/Data-viz-with-206-selectors
 suhaani-agarwal/figure-loss-small-data
