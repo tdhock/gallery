@@ -5,7 +5,7 @@ output:
     self_contained: false
 ---
 
-This is a gallery of data visualizations which have been creating
+This is a gallery of data visualizations which have been created
 using the R package [animint2](https://github.com/animint/animint2).
 
 ```{r Ropts, echo=FALSE}
@@ -16,10 +16,12 @@ knitr::opts_chunk$set(
 ahref <- function(href, text){
   sprintf('<a href="%s">%s</a>', href, text)
 }
+suppressPackageStartupMessages(library(data.table))
 ```
 
 ```{r}
 myread <- function(csv, repo.col){
+  if(!file.exists(csv))return(data.table())
   nc::capture_first_df(
     data.table::fread(csv),
     viz_owner_repo=list(owner=".*?", "/", repo_only=".*")
@@ -38,13 +40,15 @@ myread <- function(csv, repo.col){
     "repo")
   ][]
 }
+repos_dt <- fread("repos.txt",col.names="viz_owner_repo",header=FALSE)
 meta.dt <- myread("meta.csv")[, let(
   source.link = ahref(source, "source"),
   video.link = ifelse(video=="", "", ahref(video,  "video"))
 )][
 , links := paste(repo.link, source.link, video.link)
 ][
-  order(-add.POSIXct)
+  repos_dt, on="viz_owner_repo"
+  ##order(-add.POSIXct)
 ]
 error.dt <- myread("error.csv", "viz_owner_repo")
 ```
@@ -59,13 +63,14 @@ download <- function(csv){
 download("meta.csv")
 ```
 
-## Visualizations with missing meta-data
-
 ```{r}
-knitr::kable(error.dt[, .(
-  viz.link, repo.link, error
-)])
-download("error.csv")
+if(nrow(error.dt)){
+  cat("## Visualizations with missing meta-data\n")
+  download("error.csv")
+  knitr::kable(error.dt[, .(
+    viz.link, repo.link, error
+  )])
+}
 ```
 
 ## Source code

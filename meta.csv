@@ -50,3 +50,4 @@ add.POSIXct,viz_owner_repo,video,source,title
 2025-08-25T13:41:41.008040Z,suhaani-agarwal/figure-loss-small-data,"",https://github.com/tdhock/changepoint-data-structure/blob/master/figure-loss-small-data.R,Changepoint model selection
 2025-08-26T07:19:01.288519Z,biplab-sutradhar/Data-viz-with-206-selectors,"",https://github.com/biplab-sutradhar/Data-viz-with-206-selectors/blob/gh-pages/PSJ.R,Animint compiler with for loops
 2025-08-29T13:23:46.091420Z,tdhock/2025-08-29-LOPART-candidates-grid,"",https://github.com/tdhock/LOPART-paper/blob/master/figure-candidates-interactive.R,Labeled optimal partitioning (LOPART) algorithm for change-point detection with label constraints
+2025-09-22T18:57:55.320185Z,tdhock/2025-09-22-degree-neighbors-table,,https://github.com/tdhock/cs499-spring2020/blob/master/2020-02-03-capacity/figure-polynomial-neighbors-table-interactive.R,"Overfitting using linear model polynomial degree and nearest neighbors, HTML table layout"
