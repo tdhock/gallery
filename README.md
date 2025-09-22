@@ -7,12 +7,11 @@
 
 ### Make a Data Viz
 
-1. First, run `install.packages("animint2")` in R to get the most recent version from CRAN (>= 2023.11.21). The most recent versions support the `source` option for the `animint()` function, which is required to publish an animint to a gallery.
+1. First, run `install.packages("animint2", dep=TRUE)` in R to get the most recent version from CRAN (>= 2023.11.21), along with all optional dependencies (Suggests are required for automatic screenshots). The most recent versions support the `source` option for the `animint()` function, which is required to publish an animint to a gallery.
 2. Create a data `viz = animint(ggplots, title="data viz title", source="https://link.to/your_code.R")` object with options:
   * `title`: Replace the example text with a string describing the data viz.
   * `source`: Replace the example URL with the URL of your data viz source code.
-3. Run `animint2pages(viz, "new_github_repo")` to create a new GitHub repository with your viz deployed in the gh-pages branch. For more detailed instructions, see [the subsection about publishing to GitHub Pages in Chapter 5 of The animint2 Manual](https://rcdata.nau.edu/genomic-ml/animint2-manual/Ch05-sharing.html#pages).
-4. Take a screenshot of the data viz, name it `Capture.PNG`, and add it to the gh-pages branch of that repo.
+3. Run `animint2pages(viz, "new_github_repo", chromote_sleep_seconds=5)` to create a new GitHub repository with your viz deployed in the gh-pages branch (and a screenshot named `Capture.PNG`). For more detailed instructions, see [the subsection about publishing to GitHub Pages in Chapter 5 of The animint2 Manual](https://rcdata.nau.edu/genomic-ml/animint2-manual/Ch05-sharing.html#pages). Make sure the name of this repo `new_github_repo` is different from the repo where you have the source code for this data viz.
 
 ### Add your Data Viz to the Gallery
 
