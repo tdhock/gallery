@@ -16,7 +16,7 @@ knitr::opts_chunk$set(
 ahref <- function(href, text){
   sprintf('<a href="%s">%s</a>', href, text)
 }
-suppressPackageStartupMessages(library(data.table))
+suppressWarnings(suppressPackageStartupMessages(library(data.table)))
 ```
 
 ```{r}
