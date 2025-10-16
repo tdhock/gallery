@@ -51,4 +51,4 @@ add.POSIXct,viz_owner_repo,video,source,title
 2025-08-26T07:19:01.288519Z,biplab-sutradhar/Data-viz-with-206-selectors,"",https://github.com/biplab-sutradhar/Data-viz-with-206-selectors/blob/gh-pages/PSJ.R,Animint compiler with for loops
 2025-06-18T08:46:23.746985Z,suhaani-agarwal/ROC-curve-alignment,"",https://github.com/suhaani-agarwal/max-generalized-auc/blob/master/figure-curveAlignment.R,Changepoint detection ROC curve alignment problem
 2025-08-25T13:41:41.008040Z,suhaani-agarwal/figure-loss-small-data,"",https://github.com/tdhock/changepoint-data-structure/blob/master/figure-loss-small-data.R,Changepoint model selection
-2025-10-16T13:48:10.168154Z,tdhock/2025-10-09-HiC-pixels-chr1-zoom-tiles-clusters,https://vimeo.com/1053477025,https://github.com/tdhock/hicream-viz/blob/main/data-2025-10-09/figure-pixels-chr1-zoom-tiles-clusters.R,Hi-C pixels chr1 clusters zoom using tiles
+2025-10-16T13:57:09.713788Z,tdhock/2025-10-09-HiC-pixels-chr1-zoom-tiles-clusters,https://vimeo.com/1127879183,https://github.com/tdhock/hicream-viz/blob/main/data-2025-10-09/figure-pixels-chr1-zoom-tiles-clusters.R,Hi-C pixels chr1 clusters zoom using tiles
