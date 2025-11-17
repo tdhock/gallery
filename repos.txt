@@ -32,8 +32,6 @@ tdhock/2023-01-regression-2d
 tdhock/2019-01-nearest-neighbors-classification-1d
 tdhock/2019-01-nearest-neighbors-cross-validation
 tdhock/2023-11-interval-regression-differences
-tdhock/tdhock-figure-nnet-regression-degrees
-tdhock/animint-figure-nnet-regression-degrees
 tdhock/necromass-figure-one-network
 EngineerDanny/EngineerDanny-necromass-figure-one-network
 nhintruong/breakpoints
