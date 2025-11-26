@@ -34,6 +34,7 @@ add.POSIXct,viz_owner_repo,video,source,title
 2025-01-21T10:53:52.485204Z,tdhock/2023-11-interval-regression-differences,"",https://github.com/tdhock/change-tutorial/blob/master/figure-differences-interactive.R,AIC/BIC change-point detection comparison using ROC curves
 2025-01-21T10:53:52.485204Z,tdhock/necromass-figure-one-network,"",https://github.com/tdhock/necromass/blob/main/figure-one-network.R,bacteria_fungi_conservative visualization
 2025-01-21T10:53:52.485204Z,EngineerDanny/EngineerDanny-necromass-figure-one-network,"",https://github.com/tdhock/necromass/blob/main/figure-one-network.Rmd,bacteria_fungi_conservative visualization
+2025-11-26T16:03:36.349539Z,ANAMASGARD/breakpoints,"",https://github.com/ANAMASGARD/breakpoints-viz-code/blob/main/breakpoints.R,breakpoints select multiple segmentation models
 2025-04-02T07:12:39.659806Z,suhaani-agarwal/tornado-visualization,https://vimeo.com/1072120042/29ea7f22a6,https://github.com/suhaani-agarwal/animint-paper/blob/master/examples/tornado/viz.R,US Tornado Visualization
 2025-04-10T10:28:55.939713Z,suhaani-agarwal/central-american-temperature-maps,https://vimeo.com/1087209965,http://github.com/suhaani-agarwal/animint-paper/blob/master/examples/climate/viz.R,Central American Temperature Maps
 2025-05-10T08:27:17.383153Z,suhaani-agarwal/WorldBank-paper,https://vimeo.com/1087206179,https://github.com/suhaani-agarwal/animint/blob/master/inst/examples/WorldBank-paper.R,World Bank data viz for Animint paper
@@ -50,4 +51,3 @@ add.POSIXct,viz_owner_repo,video,source,title
 2025-06-18T08:46:23.746985Z,suhaani-agarwal/ROC-curve-alignment,"",https://github.com/suhaani-agarwal/max-generalized-auc/blob/master/figure-curveAlignment.R,Changepoint detection ROC curve alignment problem
 2025-08-25T13:41:41.008040Z,suhaani-agarwal/figure-loss-small-data,"",https://github.com/tdhock/changepoint-data-structure/blob/master/figure-loss-small-data.R,Changepoint model selection
 2025-11-15T15:24:19.490278Z,ANAMASGARD/dna-copy-number-large-margin,"",https://github.com/ANAMASGARD/dna-copy-number-viz-code/blob/main/intreg.R,Max-margin interval regression for supervised segmentation model selection
-2025-11-26T16:03:36.349539Z,ANAMASGARD/breakpoints,,https://github.com/ANAMASGARD/breakpoints-viz-code/blob/main/breakpoints.R,breakpoints select multiple segmentation models
