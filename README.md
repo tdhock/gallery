@@ -26,3 +26,15 @@ In the following instructions, replace `YOUR_GITHUB_USERNAME` with your GitHub u
 7. Make sure your pull request description has a link to the rendered version of your fork of the gallery, such as https://YOUR_GITHUB_USERNAME.github.io/gallery/. That way, reviewers can quickly preview what the new gallery would look like after merging the pull request.
 
 For more info about galleries, go to [Chapter 5 of The animint2 Manual and read the subsection on organizing animints in a gallery](https://rcdata.nau.edu/genomic-ml/animint2-manual/Ch05-sharing.html#gallery).
+
+### Gallery entries that error
+
+In `repos.txt` we have the following two lines
+
+```
+tdhock/tdhock-figure-nnet-regression-degrees
+tdhock/animint-figure-nnet-regression-degrees
+```
+
+Please do not remove these two lines, even though they cause errors.
+These errors are a useful check, so we can see what happens to index.html when a gallery entry is incomplete.
