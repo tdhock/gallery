@@ -8,7 +8,6 @@ tdhock/2025-02-01-error-predict-qsip
 tdhock/2024-07-04-HMM-angular-data
 tdhock/2024-06-26-neuroblastomaProcessed-combinations
 tdhock/2025-02-03-aum-convexity
-nhintruong/figure-2019-08-14-animint
 tdhock/Animated2GradCAM-COVID19-Chest-X-ray-ViT-V3-140px-609Case
 tdhock/Animated2GradCAM-COVID19-Chest-X-ray-ViT-V2-200px-696Case
 tdhock/2023-12-27-train-sizes-classification
@@ -34,7 +33,7 @@ tdhock/2019-01-nearest-neighbors-cross-validation
 tdhock/2023-11-interval-regression-differences
 tdhock/necromass-figure-one-network
 EngineerDanny/EngineerDanny-necromass-figure-one-network
-nhintruong/breakpoints
+ANAMASGARD/breakpoints
 suhaani-agarwal/tornado-visualization
 suhaani-agarwal/central-american-temperature-maps
 suhaani-agarwal/WorldBank-paper

@@ -9,7 +9,6 @@ add.POSIXct,viz_owner_repo,video,source,title
 2025-02-01T17:03:21.246194Z,tdhock/2024-07-04-HMM-angular-data,https://vimeo.com/1052600378,https://github.com/tdhock/angular-change-paper/blob/main/figure-2d-hmm-real-interactive.R,Hidden Markov Model for 2d angular data
 2025-02-02T20:43:23.348732Z,tdhock/2024-06-26-neuroblastomaProcessed-combinations,https://vimeo.com/1052818937,https://github.com/tdhock/max-generalized-auc/blob/master/figure-neuroblastomaProcessed-combinations-interactive.R,Generalized ROC curve metrics
 2025-02-03T18:56:21.681298Z,tdhock/2025-02-03-aum-convexity,https://vimeo.com/1053132517,https://github.com/tdhock/max-generalized-auc/blob/master/figure-aum-convexity-interactive.R,Simple non-monotonic ROC curve
-2025-01-21T10:53:52.485204Z,nhintruong/figure-2019-08-14-animint,"",https://github.com/tdhock/neuroblastoma-data/blob/ff51e847a4d7b2fe61c1ad7e5f17c4d039aa2c9d/figure-2019-08-14-animint.R,Gaussian Process models for sample selection
 2025-01-21T10:53:52.485204Z,tdhock/Animated2GradCAM-COVID19-Chest-X-ray-ViT-V3-140px-609Case,"",https://github.com/TyBruceChen/Animinted2GradCAM?tab=readme-ov-file,"Classifying chest X-rays, plot confidence"
 2025-01-21T10:53:52.485204Z,tdhock/Animated2GradCAM-COVID19-Chest-X-ray-ViT-V2-200px-696Case,"",https://github.com/TyBruceChen/Research-A-Fined-Tuned-ViT-for-COVID-19-Image-Auxiliary-Diagnosing,Classifying Covid19 chest X-ray images
 2025-02-04T18:23:39.127865Z,tdhock/2023-12-27-train-sizes-classification,https://vimeo.com/1053477025,https://github.com/tdhock/mlr3resampling/blob/main/vignettes/Older_resamplers.Rmd,"Variable size train sets, classification"
@@ -35,7 +34,6 @@ add.POSIXct,viz_owner_repo,video,source,title
 2025-01-21T10:53:52.485204Z,tdhock/2023-11-interval-regression-differences,"",https://github.com/tdhock/change-tutorial/blob/master/figure-differences-interactive.R,AIC/BIC change-point detection comparison using ROC curves
 2025-01-21T10:53:52.485204Z,tdhock/necromass-figure-one-network,"",https://github.com/tdhock/necromass/blob/main/figure-one-network.R,bacteria_fungi_conservative visualization
 2025-01-21T10:53:52.485204Z,EngineerDanny/EngineerDanny-necromass-figure-one-network,"",https://github.com/tdhock/necromass/blob/main/figure-one-network.Rmd,bacteria_fungi_conservative visualization
-2025-01-21T10:53:52.485204Z,nhintruong/breakpoints,"",https://github.com/animint/animint2/blob/4b1049bc1d8ee8dbd78b31f52a5863496fae5931/inst/examples/breakpoints.R,breakpoints select multiple segmentation models
 2025-04-02T07:12:39.659806Z,suhaani-agarwal/tornado-visualization,https://vimeo.com/1072120042/29ea7f22a6,https://github.com/suhaani-agarwal/animint-paper/blob/master/examples/tornado/viz.R,US Tornado Visualization
 2025-04-10T10:28:55.939713Z,suhaani-agarwal/central-american-temperature-maps,https://vimeo.com/1087209965,http://github.com/suhaani-agarwal/animint-paper/blob/master/examples/climate/viz.R,Central American Temperature Maps
 2025-05-10T08:27:17.383153Z,suhaani-agarwal/WorldBank-paper,https://vimeo.com/1087206179,https://github.com/suhaani-agarwal/animint/blob/master/inst/examples/WorldBank-paper.R,World Bank data viz for Animint paper
@@ -52,3 +50,4 @@ add.POSIXct,viz_owner_repo,video,source,title
 2025-06-18T08:46:23.746985Z,suhaani-agarwal/ROC-curve-alignment,"",https://github.com/suhaani-agarwal/max-generalized-auc/blob/master/figure-curveAlignment.R,Changepoint detection ROC curve alignment problem
 2025-08-25T13:41:41.008040Z,suhaani-agarwal/figure-loss-small-data,"",https://github.com/tdhock/changepoint-data-structure/blob/master/figure-loss-small-data.R,Changepoint model selection
 2025-11-15T15:24:19.490278Z,ANAMASGARD/dna-copy-number-large-margin,"",https://github.com/ANAMASGARD/dna-copy-number-viz-code/blob/main/intreg.R,Max-margin interval regression for supervised segmentation model selection
+2025-11-26T16:03:36.349539Z,ANAMASGARD/breakpoints,,https://github.com/ANAMASGARD/breakpoints-viz-code/blob/main/breakpoints.R,breakpoints select multiple segmentation models
