@@ -46,7 +46,7 @@ add.POSIXct,viz_owner_repo,video,source,title
 2025-05-27T08:01:05.116130Z,suhaani-agarwal/intreg-BIC,"",https://github.com/suhaani-agarwal/animint/blob/master/inst/examples/intreg_BIC.R,Segmentation model selection with BIC
 2025-05-27T11:22:32.142369Z,suhaani-agarwal/Ch18-neural-networks-sim,"",https://github.com/suhaani-agarwal/animint-book/blob/master/Ch18-neural-networks-sim.R,Gradient descent for neural network and linear model
 2025-05-27T11:50:29.187449Z,suhaani-agarwal/figure-gradient-descent-regression,"",https://github.com/suhaani-agarwal/cs570-spring-2022/blob/master/figure-gradient-descent-regression.R,Gradient descent for regression
-2025-06-23T04:40:48.175167Z,biplab-sutradhar/climate-change-sensor-stations,"",https://github.com/biplab-sutradhar/climate-change-sensor-stations/blob/gh-pages/figure-stations.R,Climate change sensor stations
+2025-06-23T04:40:48.175167Z,biplab-sutradhar/climate-change-sensor-stations,"",https://github.com/biplab-sutradhar/climate-change-sensor-stations/blob/main/figure-stations.R,CRUTEM4 Temperature Sensor Stations
 2025-08-29T13:23:46.091420Z,tdhock/2025-08-29-LOPART-candidates-grid,"",https://github.com/tdhock/LOPART-paper/blob/master/figure-candidates-interactive.R,Labeled optimal partitioning (LOPART) algorithm for change-point detection with label constraints
 2025-08-26T07:19:01.288519Z,biplab-sutradhar/Data-viz-with-206-selectors,"",https://github.com/biplab-sutradhar/Data-viz-with-206-selectors/blob/gh-pages/PSJ.R,Animint compiler with for loops
 2025-06-18T08:46:23.746985Z,suhaani-agarwal/ROC-curve-alignment,"",https://github.com/suhaani-agarwal/max-generalized-auc/blob/master/figure-curveAlignment.R,Changepoint detection ROC curve alignment problem
