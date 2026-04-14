@@ -47,7 +47,7 @@ suhaani-agarwal/figure-penaltyLearning
 suhaani-agarwal/intreg-BIC
 suhaani-agarwal/Ch18-neural-networks-sim
 suhaani-agarwal/figure-gradient-descent-regression
-biplab-sutradhar/climate-change-sensor-stations
+ANAMASGARD/climate-change-sensor-stations
 tdhock/2025-08-29-LOPART-candidates-grid
 biplab-sutradhar/Data-viz-with-206-selectors
 suhaani-agarwal/ROC-curve-alignment
