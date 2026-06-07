@@ -10,12 +10,11 @@ tdhock/2025-02-01-error-predict-qsip
 tdhock/2024-07-04-HMM-angular-data
 tdhock/2024-06-26-neuroblastomaProcessed-combinations
 tdhock/2025-02-03-aum-convexity
-nhintruong/figure-2019-08-14-animint
 tdhock/Animated2GradCAM-COVID19-Chest-X-ray-ViT-V3-140px-609Case
 tdhock/Animated2GradCAM-COVID19-Chest-X-ray-ViT-V2-200px-696Case
 tdhock/2023-12-27-train-sizes-classification
-tdhock/2023-12-26-train-sizes-regression
-tdhock/2023-12-13-train-predict-subsets-classification
+ANAMASGARD/2023-12-26-train-sizes-regression
+ANAMASGARD/2023-12-13-train-predict-subsets-classification
 tdhock/2023-12-13-train-predict-subsets-regression
 tdhock/2025-09-22-degree-neighbors-table
 tdhock/2023-12-04-degree-neighbors
@@ -38,7 +37,7 @@ tdhock/tdhock-figure-nnet-regression-degrees
 tdhock/animint-figure-nnet-regression-degrees
 tdhock/necromass-figure-one-network
 EngineerDanny/EngineerDanny-necromass-figure-one-network
-nhintruong/breakpoints
+ANAMASGARD/breakpoints
 suhaani-agarwal/tornado-visualization
 suhaani-agarwal/central-american-temperature-maps
 suhaani-agarwal/WorldBank-paper
@@ -49,8 +48,11 @@ suhaani-agarwal/figure-penaltyLearning
 suhaani-agarwal/intreg-BIC
 suhaani-agarwal/Ch18-neural-networks-sim
 suhaani-agarwal/figure-gradient-descent-regression
-biplab-sutradhar/climate-change-sensor-stations
+ANAMASGARD/climate-change-sensor-stations
 tdhock/2025-08-29-LOPART-candidates-grid
 biplab-sutradhar/Data-viz-with-206-selectors
 suhaani-agarwal/ROC-curve-alignment
 suhaani-agarwal/figure-loss-small-data
+ANAMASGARD/dna-copy-number-large-margin
+Nishita-shah1/animint-viz
+ANAMASGARD/chip-seq-large-margin
